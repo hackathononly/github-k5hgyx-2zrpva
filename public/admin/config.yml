@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  repo:  hackathononly/github-k5hgyx-2zrpva
   branch: main # Branch to update (optional; defaults to master)
 
 publish_mode: editorial_workflow
